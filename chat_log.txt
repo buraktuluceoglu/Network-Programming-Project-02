@@ -1,0 +1,13 @@
+[2025-11-21 13:07:46] Server stopped manually via KeyboardInterrupt.
+[2025-11-21 13:07:47] Server started on 127.0.0.1:6666. Press Ctrl+C to stop.
+[2025-11-21 13:07:52] Connected: burak
+[2025-11-21 13:07:56] Connected: patrick
+[2025-11-21 13:08:04] PRIVATE: patrick -> burak: selam
+[2025-11-21 13:08:06] PRIVATE: burak -> patrick: selam
+[2025-11-21 13:08:25] Server stopped manually via KeyboardInterrupt.
+[2025-11-21 13:58:09] Server started on 127.0.0.1:6666. Press Ctrl+C to stop.
+[2025-11-21 13:58:15] Connected: Burak
+[2025-11-21 13:58:41] Connected: patrick
+[2025-11-21 13:58:56] PRIVATE: Burak -> patrick: hello
+[2025-11-21 13:59:00] PUBLIC: Burak: hello
+[2025-11-21 13:59:21] Server stopped manually via KeyboardInterrupt.
