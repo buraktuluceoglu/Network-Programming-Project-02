@@ -43,10 +43,7 @@ python-chat-system/
 ├── chat_relay.py       # Relay/Proxy Server (Port 6667)
 ├── chat_log.txt        # Auto-generated Log File
 ├── README.md           # Project Documentation
-└── screenshots/        # Project Images
-    ├── server_run.png
-    ├── public_chat.png
-    └── private_chat.png
+
 ```
 ## Requirements
 No external pip packages are required. The project uses Python's standard library:
